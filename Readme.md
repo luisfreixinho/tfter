@@ -1,8 +1,18 @@
 # TFTer
 
-python implementation of an automatic TFT player 
+***TFTer*** is a tool that analyses the game and tries to play the auto battler game [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com/en-gb/)  automatically.
 
-## req
+### Teamfight Tactics
+
+##
+**Annotation Tool:** https://github.com/opencv/cvat  
+**Data Augmentation Techniques:**
+- 
+
+
+## Project
+
+### Requirements
 
 - Loading Screen:
     - Summoner last builds
